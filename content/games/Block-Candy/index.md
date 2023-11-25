@@ -17,7 +17,7 @@ Tatse the sweetness of a sugery battle. Fight off large tides of sour forces try
 Blocky Candy is a fun-packed, action-filled mobile game... Ready to play on andriod, Get the Game here:
 [ {{< icon amazon >}} Block Candy Unlimited ](https://www.amazon.com/dp/B0BGKQ83HB/ref=apps_sf_sta) 
 
-#### Story
+## Story
 In a land where there exists only sweetness, life is blissful and ofcourse sugery. The people live in harmony, and the delicious walls that surround the kingdom keep them safe from harm.
 But one day, a sour force threatens to destroy everything. A horde of monsters, led by the evil candy wizard Licorice, storms the walls of the sweet land, intent on tearing down everything in their path.
 The people of the sweet land are terrified, and many flee the city in search of safety. But a brave hero rises to the challenge, armed with a high-tech jet paddle and a ball.
@@ -27,7 +27,7 @@ But you are determined, and you have a secret candy weapon - the jet paddle. Wit
 As you get closer to the heart of Licorice's fortress, the challenges will become more intense. You'll face off against his most powerful candy minions, each one sweeter than the last. But with skill and determination, you'll prevail.
 In the end, you'll face off against Licorice himself, in a final showdown that will determine the fate of this sweet land. Will you emerge victorious, or will the kingdom fall to sourness? Only time will tell.
 
-#### Product features
+## Product features
 Smash blocks for fun
 Ten (10) + new levels with an enhanced gaming experience
 nice music
@@ -35,5 +35,5 @@ yummy interactive interface
 beat your high score
 unlock new levels
 
-#### Get the game 
+## Get the game 
 [ {{< icon amazon >}} Block Candy Unlimited ](https://www.amazon.com/dp/B0BGKQ83HB/ref=apps_sf_sta) 
