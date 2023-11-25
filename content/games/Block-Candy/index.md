@@ -13,7 +13,7 @@ tags: ["block-candy", "andriod", "mobile"]
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/-Hss5aeOk8U?si=ioCuAm_F0vtj9mNl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Tatse the sweetness of a sugery battle. Fight off large tides of sour forces trying to destroy your sweet sweet fortitude.
+Taste the sweetness of a sugery battle. Fight off large tides of sour forces trying to destroy your sweet sweet fortitude.
 Blocky Candy is a fun-packed, action-filled mobile game... Ready to play on andriod, Get the Game here:
 [ {{< icon amazon >}} Block Candy Unlimited ](https://www.amazon.com/dp/B0BGKQ83HB/ref=apps_sf_sta) 
 
